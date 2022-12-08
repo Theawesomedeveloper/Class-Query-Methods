@@ -7,7 +7,7 @@ This is a javascript file that shows you various  wyas we can query class method
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/Theawesomedeveloper/Class-Query-Methods.git
 ```
 
 Go to the project directory
