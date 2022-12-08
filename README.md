@@ -1,4 +1,4 @@
-# Statistics
+# OOP Query 
 
 This is a javascript file that shows you various  wyas we can query class methods and properties
 
